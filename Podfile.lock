@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (4.3.0)
+  - AMPopTip (1.4.1)
+  - Cosmos (8.0.2)
+  - SwiftKeychainWrapper (3.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.3)
+  - AMPopTip
+  - Cosmos (~> 8.0)
+  - SwiftKeychainWrapper
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  AMPopTip: 65ce21ac23607020e6b5b4e261b8b76df7190987
+  Cosmos: 007c0b8e33a85e5363911bdd933571bbe221f7ef
+  SwiftKeychainWrapper: 38952a3636320ae61bad3513cadd870929de7a4a
+
+PODFILE CHECKSUM: 730352c2d1e6c35ab80f36316860051418a7d03c
+
+COCOAPODS: 1.1.1
